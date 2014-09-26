@@ -20,7 +20,7 @@ DeletableEditText 的布局：
         android:layout_height="fill_parent"  
         android:paddingLeft="10dp"  
         android:paddingRight="10dp" />  
-    <!--删除按钮--!>  
+    //删除按钮 
     <ImageButton  
         android:id="@+id/btn_delete"  
         android:scaleType="centerInside"  
