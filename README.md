@@ -3,6 +3,9 @@ DeletableEditText
 
 Custom Edittext with a delete button
 ====
+
+
+![](https://github.com/18236887539/DeletableEditText/blob/master/1.gif)
 DeletableEditText 的布局：
 ---
 ```xml
