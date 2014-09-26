@@ -1,0 +1,28 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:zyh="http://schemas.android.com.zyh.deletableedittext"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <com.example.deletableedittext.DeleteableEditText
+        android:id="@+id/et"
+        android:layout_width="match_parent"
+        android:layout_height="50dp" />
+
+    <com.example.deletableedittext.DeleteableEditText
+        android:id="@+id/et1"
+        android:layout_width="match_parent"
+        android:layout_height="50dp" />
+
+    <com.example.deletableedittext.DeleteableEditText
+        android:id="@+id/et2"
+        android:layout_width="match_parent"
+        android:layout_height="50dp" />
+
+    <Button
+        android:text="我是按钮"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>
